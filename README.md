@@ -3,4 +3,4 @@
 
 Hey, I'm just doing the beginner's tutorial!
 
-'Code lol'
+This is some `Inline Code lol`.
