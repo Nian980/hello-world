@@ -1,4 +1,6 @@
 # hello-world
-Beginner's guide.
+**Beginner's guide.**
 
 Hey, I'm just doing the beginner's tutorial!
+
+'Code lol'
